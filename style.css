@@ -127,3 +127,40 @@
     width: 650px;
     height: auto;
 }
+
+.fourth {
+    display: flex;
+    justify-content: space-between;
+    max-width: 800px;
+    background-color: #3882F6;
+    padding: 50px 100px;
+    margin: 100px auto;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.fourth .cta {
+    color: white;
+    font-size: 20px;
+    margin: 0;
+}
+
+.fourth p {
+    color: #E5E7EB;
+    margin: 0;
+    font-size: 15px;
+}
+
+.fourth button {
+   display: flex;
+   width: auto;
+   height: auto;
+   font-size: 15px;
+   padding: 5px 20px;
+   border: 2px solid white;
+   background-color: #3882F6;
+   color: white;
+   border-radius: 5px;
+   align-items: flex-end;
+
+}
