@@ -6,6 +6,6 @@ P.S. Thank you team TOP for this wonderful and Free course!
 
 Image credits:
 
-    Photo by ALLAN FRANCA CARMO: https://www.pexels.com/photo/protesting-young-woman-showing-obscene-gesture-5333096/
+Photo by ALLAN FRANCA CARMO: https://www.pexels.com/photoprotesting-young-woman-showing-obscene-gesture-5333096/
 
-    Photo by RODNAE Productions: https://www.pexels.com/photo/a-person-holding-a-sign-7564224/
+Photo by RODNAE Productions: https://www.pexels.com/photoa-person-holding-a-sign-7564224/
