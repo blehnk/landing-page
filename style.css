@@ -152,7 +152,6 @@
 }
 
 .fourth button {
-   display: flex;
    width: auto;
    height: auto;
    font-size: 15px;
@@ -161,6 +160,14 @@
    background-color: #3882F6;
    color: white;
    border-radius: 5px;
-   align-items: flex-end;
+}
 
+footer {
+    background-color: #1F2937;
+    padding: 30px 0;
+}
+
+footer p {
+    color: #E5E7EB;
+    text-align: center;
 }
