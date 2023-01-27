@@ -5,6 +5,7 @@ In this project I'll be using my skills from the foundation course so far, which
 P.S. Thank you team TOP for this wonderful and Free course!
 
 Image credits:
+
     Photo by ALLAN FRANCA CARMO: https://www.pexels.com/photo/protesting-young-woman-showing-obscene-gesture-5333096/
 
     Photo by RODNAE Productions: https://www.pexels.com/photo/a-person-holding-a-sign-7564224/
